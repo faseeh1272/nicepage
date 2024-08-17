@@ -1,0 +1,23 @@
+@media screen and (max-width:768px) and(min-width:401px) {
+    
+    .navbar{
+       
+        
+        flex-wrap: wrap;
+    }
+    .container{
+        width: 380px;
+    }
+    .section2{
+        flex-direction: column;
+    }
+    .first-section{
+      flex-wrap: wrap;
+    }
+    .flexbox{
+       flex-wrap: wrap;
+    }
+    .box{
+        flex-direction: column;
+    }
+}
