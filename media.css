@@ -15,7 +15,7 @@
       flex-direction: column;
     }
     .flexbox{
-       flex-wrap: wrap;
+       flex-direction: column;
     }
     .box{
         flex-direction: column;
