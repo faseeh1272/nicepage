@@ -69,6 +69,8 @@
 }
 .right{
     margin-right: 40px;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -125,6 +127,7 @@ margin-top: 15px;
 .box
 {
     width: 23%;
-    line-height: 25px;
+    line-height: 25px;flex-wrap: wrap;
+
     
 }
