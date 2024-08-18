@@ -25,8 +25,8 @@
     .right{
         flex-direction: column;
     }
-    .flex{
-        margin: auto;
+    .flex.box{
+   
         flex-wrap: wrap;
     }
 }
