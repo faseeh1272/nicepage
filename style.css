@@ -132,3 +132,24 @@ margin-top: 15px;
 
     
 }
+/* section3 */
+.flex{
+    display: flex;
+background-color: #032d30;
+
+}
+.meet{
+    text-align: center;
+    margin-top: 55px;
+    color: white;
+    background-color: #032d30;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.flex-img{
+    border-radius: 50%;
+   padding: 10px;
+  background-position: center;
+ 
+  
+}
