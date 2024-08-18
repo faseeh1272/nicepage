@@ -135,6 +135,7 @@ margin-top: 15px;
 }
 /* section3 */
 .flex{
+    width: 100%;
     display: flex;
     justify-content: space-between;
 background-color: #032d30;

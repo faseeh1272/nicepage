@@ -13,7 +13,8 @@
     }
     .first-section{
 
-      flex-wrap: wrap;
+      /* flex-wrap: wrap; */
+      flex-direction: column;
       text-align: center;
     }
     .flexbox{
@@ -24,6 +25,9 @@
     }
     .right{
         flex-direction: column;
+    }
+    .flex{
+        flex-direction:column ;
     }
     .flex.box{
    
