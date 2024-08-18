@@ -27,6 +27,6 @@
     }
     .flex.box{
    
-        flex-wrap: wrap;
+        flex-direction: column;
     }
 }
