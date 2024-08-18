@@ -14,7 +14,7 @@
     .first-section{
 
       flex-wrap: wrap;
-      margin: auto;
+      text-align: center;
     }
     .flexbox{
        flex-direction: column;
@@ -24,5 +24,9 @@
     }
     .right{
         flex-direction: column;
+    }
+    .flex{
+        margin: auto;
+        flex-wrap: wrap;
     }
 }

@@ -128,14 +128,19 @@ margin-top: 15px;
 .box
 {
     width: 23%;
-    line-height: 25px;flex-wrap: wrap;
+    line-height: 25px;
+
 
     
 }
 /* section3 */
 .flex{
     display: flex;
+    justify-content: space-between;
 background-color: #032d30;
+flex-wrap: wrap;
+
+
 
 }
 .meet{
@@ -146,10 +151,12 @@ background-color: #032d30;
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
 }
-.flex-img{
+.img-r img{
+    width: 200px;
+    height: 210px;
     border-radius: 50%;
-   padding: 10px;
-  background-position: center;
- 
-  
+    background: #BBBBBB; 
+}
+.flex.box{
+    margin-top: 20px;
 }
