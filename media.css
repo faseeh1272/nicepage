@@ -7,7 +7,7 @@
     }
     .container{
         /* width: 380px; */
-        
+
     }
     .section2{
         flex-direction: column;
@@ -19,13 +19,21 @@
       text-align: center;
     }
     .flexbox{
-       flex-direction: column;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    flex-direction: column;
     }
     .box{
+        display: flex;
         flex-direction: column;
+        align-items: center;
+
     }
     .right{
         flex-direction: column;
+      
     }
     .flex{
         flex-direction:column ;
@@ -33,5 +41,14 @@
     .flex.box{
    
         flex-direction: column;
+    }
+    .radius{
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .flexbox.box.radius{
+        display: flex;
+        align-items: center;
     }
 }
