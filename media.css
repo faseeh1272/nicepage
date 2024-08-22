@@ -6,7 +6,8 @@
         flex-wrap: wrap;
     }
     .container{
-        width: 380px;
+        /* width: 380px; */
+        
     }
     .section2{
         flex-direction: column;
