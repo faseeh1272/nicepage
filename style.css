@@ -126,7 +126,7 @@ margin-top: 15px;
 }
 .box
 {
-    width: 100%;
+    /* width: 100%; */
     line-height: 25px;
     /* display: flex;
     align-items: center;
@@ -141,7 +141,7 @@ margin-top: 15px;
     display: flex;
     justify-content: space-between;
 background-color: #032d30;
-flex-wrap: wrap;
+/* flex-wrap: wrap; */
 
 
 
@@ -165,7 +165,7 @@ flex-wrap: wrap;
 }
 .flex.box{
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     margin-top: 20px;
 }
 .first-section .left ,
